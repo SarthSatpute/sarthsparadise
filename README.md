@@ -64,11 +64,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🎮 Demo
 
-> **Demo:** \[Add your live link here]
 
----
 
 ## 🏆 Highlights
 
@@ -77,22 +74,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 * Smooth 2D movement with **Pixi.js**.
 * Custom maps & private zones for flexible use.
 
----
 
-## 📄 License
 
-MIT License.
 
----
-
-## 📬 Contact
-
-**Name:** \[Your Name]
-**Email:** \[Your Email]
-**LinkedIn:** \[Your LinkedIn]
-**GitHub:** \[Your GitHub]
-
----
 
 ```
 
