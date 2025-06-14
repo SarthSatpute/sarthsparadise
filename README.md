@@ -1,7 +1,9 @@
+Got it! Here’s the same **README.md**, updated with your project name **Sarth's Paradise** — clean and internship-ready:
 
-# 📡 Realms Clone — Virtual Gather Space
+````markdown
+# 📡 Sarth's Paradise — Virtual Gather Space
 
-**Realms Clone** is an interactive multiplayer virtual space inspired by platforms like Gather.town. It lets users navigate a 2D map, interact via **proximity-based video chat**, join **private areas**, and collaborate naturally in a customizable environment.
+**Sarth's Paradise** is an interactive multiplayer virtual space inspired by platforms like Gather.town. It lets users move freely in a 2D map, interact via **proximity-based video chat**, join **private areas**, and collaborate naturally in a customizable environment.
 
 ---
 
@@ -10,7 +12,7 @@
 - **Tile-Based Movement** — Smooth 2D avatar navigation.
 - **Proximity Video Chat** — Automatic video/audio with nearby users.
 - **Private Spaces** — Isolated zones for confidential conversations.
-- **Real-Time Multiplayer** — Fast, synced state with **Socket.IO**.
+- **Real-Time Multiplayer** — Fast, synced player state with **Socket.IO**.
 - **Customizable Maps** — Design your own virtual rooms.
 - **Modern Tech Stack** — Built with **TypeScript**, **Next.js**, **Supabase**, **Socket.IO**, **Pixi.js**, **Agora**, and **TailwindCSS**.
 
@@ -34,8 +36,8 @@
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/realms-clone.git
-cd realms-clone
+git clone https://github.com/yourusername/sarthsparadise.git
+cd sarthsparadise
 ````
 
 2️⃣ **Install dependencies**
@@ -65,25 +67,21 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ---
 
 
-
-
 ## 🏆 Highlights
 
-* Built a full-stack real-time multiplayer system.
-* Integrated proximity-based video calls for natural interactions.
+* Designed and implemented a real-time multiplayer system.
+* Integrated proximity-based video calls for realistic interactions.
 * Smooth 2D movement with **Pixi.js**.
 * Custom maps & private zones for flexible use.
 
+---
 
 
 
+✅ **What to do next:**  
+- Replace `yourusername` with your GitHub username.  
+- Add your email, LinkedIn, and GitHub link.  
+- Insert your live demo link if you have one.
 
-```
-
-**How to use:**  
-✅ Replace placeholders (`yourusername`, `your_supabase_url`, `your_agora_app_id`, etc.)  
-✅ Add your live demo link if hosted  
-✅ Fill in your real name, email, LinkedIn, GitHub
-
-If you want, I can turn this into a ready `.md` file you can download — just say **“Yes, make a file!”**
+If you’d like, I can also export this as a downloadable `README.md` file — just say **“Make the file!”** 🚀
 ```
