@@ -1,6 +1,4 @@
-Got it! Here’s the same **README.md**, updated with your project name **Sarth's Paradise** — clean and internship-ready:
 
-````markdown
 # 📡 Sarth's Paradise — Virtual Gather Space
 
 **Sarth's Paradise** is an interactive multiplayer virtual space inspired by platforms like Gather.town. It lets users move freely in a 2D map, interact via **proximity-based video chat**, join **private areas**, and collaborate naturally in a customizable environment.
