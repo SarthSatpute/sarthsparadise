@@ -76,10 +76,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 
 
-✅ **What to do next:**  
-- Replace `yourusername` with your GitHub username.  
-- Add your email, LinkedIn, and GitHub link.  
-- Insert your live demo link if you have one.
-
-If you’d like, I can also export this as a downloadable `README.md` file — just say **“Make the file!”** 🚀
 ```
