@@ -34,7 +34,7 @@
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/sarthsparadise.git
+git clone https://github.com/SarthSatpute/sarthsparadise.git
 cd sarthsparadise
 ````
 
